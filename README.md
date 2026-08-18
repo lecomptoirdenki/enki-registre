@@ -3,7 +3,7 @@
 Ce dépôt contient **une seule chose** : les sélections du modèle Enki, écrites
 avant le coup d'envoi, et jamais retouchées ensuite.
 
-La page se lit ici : **[le registre](https://lecomptoirdenki.github.io/enki-registre/)**
+La page se lit ici : **[le registre](https://registre.lecomptoirdenki.fr/)**
 
 ## Pourquoi ce dépôt existe
 
