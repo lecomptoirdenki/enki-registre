@@ -1,0 +1,17 @@
+# Les journées ANTÉRIEURES à l'ouverture du registre (19/08/2026) ne sont pas publiées.
+#
+# Elles existent sur le disque parce qu'elles ont servi à la mise au point, et parce que le
+# bloc « les jours d'avant » de la page les résume. Mais elles ont été déposées APRÈS leurs
+# matchs : les publier ici, à côté de journées déposées avant, brouillerait la seule promesse
+# que cette page fait.
+registre/2026-08-07.json
+registre/2026-08-08.json
+registre/2026-08-09.json
+registre/2026-08-10.json
+registre/2026-08-11.json
+registre/2026-08-12.json
+registre/2026-08-14.json
+registre/2026-08-15.json
+registre/2026-08-16.json
+registre/2026-08-17.json
+registre/2026-08-18.json

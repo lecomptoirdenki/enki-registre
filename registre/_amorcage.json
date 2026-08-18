@@ -1,0 +1,57 @@
+{
+ "quoi": "Journées ANTÉRIEURES à l'ouverture du registre. Chacune est rejouée avec le modèle dans l'état où il était le matin même, et non avec celui d'aujourd'hui. Ces sélections n'ont PAS été déposées avant les matchs, mais elles ont toutes été CALCULÉES avant — c'est pour cette raison qu'elles vivent dans leur propre bloc et n'entrent jamais dans le cumul du registre.",
+ "calculeLe": "2026-08-18T04:29:47.543Z",
+ "refaitLe": "2026-08-18",
+ "pourquoi": "Refait le 18/08/2026 : un défaut de rattachement des championnats attribuait à un pays les règles d'un autre, ou à une division celles de la division supérieure. Cinq championnats étaient concernés. Le bloc est donc entièrement recalculé, et le registre déposé repart de zéro le même jour.",
+ "jours": [
+  {
+   "jour": "2026-08-10",
+   "n": 3,
+   "r": 3,
+   "g": 0,
+   "u": -3
+  },
+  {
+   "jour": "2026-08-11",
+   "n": 1,
+   "r": 1,
+   "g": 0,
+   "u": -1
+  },
+  {
+   "jour": "2026-08-12",
+   "n": 2,
+   "r": 2,
+   "g": 1,
+   "u": -0.48
+  },
+  {
+   "jour": "2026-08-14",
+   "n": 13,
+   "r": 13,
+   "g": 6,
+   "u": 1.45
+  },
+  {
+   "jour": "2026-08-15",
+   "n": 31,
+   "r": 31,
+   "g": 15,
+   "u": 3.05
+  },
+  {
+   "jour": "2026-08-16",
+   "n": 33,
+   "r": 33,
+   "g": 18,
+   "u": 18.37
+  },
+  {
+   "jour": "2026-08-17",
+   "n": 9,
+   "r": 9,
+   "g": 1,
+   "u": -5.7
+  }
+ ]
+}
