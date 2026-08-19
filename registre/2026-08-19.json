@@ -1,0 +1,30 @@
+{
+ "jour": "2026-08-19",
+ "publieLe": "2026-08-19T05:08:03.207Z",
+ "selections": [
+  {
+   "id": "2026-08-19|Colorado Rapids|Los Angeles FC|ext",
+   "heure": "03:30",
+   "match": "Colorado Rapids – Los Angeles FC",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 2.58,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-08-19T05:08:03.207Z"
+  },
+  {
+   "id": "2026-08-19|Atlético Madrid|Málaga|dom",
+   "heure": "21:00",
+   "match": "Atlético Madrid – Málaga",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.37,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-08-19T05:08:03.207Z"
+  }
+ ]
+}
