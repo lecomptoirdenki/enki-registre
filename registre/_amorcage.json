@@ -1,8 +1,8 @@
 {
  "quoi": "Journées ANTÉRIEURES à l'ouverture du registre. Chacune est rejouée avec le modèle dans l'état où il était le matin même, et non avec celui d'aujourd'hui. Ces sélections n'ont PAS été déposées avant les matchs, mais elles ont toutes été CALCULÉES avant — c'est pour cette raison qu'elles vivent dans leur propre bloc et n'entrent jamais dans le cumul du registre.",
  "calculeLe": "2026-08-18T04:29:47.543Z",
- "refaitLe": "2026-08-18",
- "pourquoi": "Refait le 18/08/2026 : un défaut de rattachement des championnats attribuait à un pays les règles d'un autre, ou à une division celles de la division supérieure. Cinq championnats étaient concernés. Le bloc est donc entièrement recalculé, et le registre déposé repart de zéro le même jour.",
+ "refaitLe": "2026-08-19",
+ "pourquoi": "Refait le 18/08/2026 : un défaut de rattachement des championnats attribuait à un pays les règles d'un autre, ou à une division celles de la division supérieure. Cinq championnats étaient concernés. Le bloc est donc entièrement recalculé, et le registre déposé repart de zéro le même jour. — Refait une seconde fois le 19/08/2026 : le registre appliquait le modèle de façon incomplète et laissait passer des sélections que l’application, elle, affichait. Chaque journée est donc rejouée avec son carnet archivé, comme la première fois. ⚠️ Cette correction-ci FAIT MONTER le résultat affiché (+12,69 → +17,03 u, ROI +13,8 % → +17,9 %), à l’inverse des précédentes : elle est signalée ici pour cette raison. Elle n’ajoute aucune sélection nouvelle — seulement celles que le modèle conseillait déjà, et elle en retire une au passage.",
  "jours": [
   {
    "jour": "2026-08-10",
@@ -34,17 +34,17 @@
   },
   {
    "jour": "2026-08-15",
-   "n": 31,
-   "r": 31,
-   "g": 15,
-   "u": 3.05
+   "n": 34,
+   "r": 34,
+   "g": 17,
+   "u": 4.53
   },
   {
    "jour": "2026-08-16",
    "n": 33,
    "r": 33,
-   "g": 18,
-   "u": 18.37
+   "g": 19,
+   "u": 21.23
   },
   {
    "jour": "2026-08-17",
