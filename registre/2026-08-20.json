@@ -1,0 +1,42 @@
+{
+ "jour": "2026-08-20",
+ "publieLe": "2026-08-20T08:16:29.442Z",
+ "selections": [
+  {
+   "id": "2026-08-20|Paul T.|Cobolli F.|j2",
+   "heure": "21:00",
+   "match": "Paul T. – Cobolli F.",
+   "marche": "Vainqueur",
+   "camp": "Cobolli F.",
+   "cote": 2.52,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-08-20T08:16:29.442Z"
+  },
+  {
+   "id": "2026-08-20|Rayo Vallecano|Alavés|dom",
+   "heure": "21:00",
+   "match": "Rayo Vallecano – Alavés",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.42,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-08-20T08:16:29.442Z"
+  },
+  {
+   "id": "2026-08-20|Sheffield Wednesday|Bradford City|dom",
+   "heure": "21:00",
+   "match": "Sheffield Wednesday – Bradford City",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.56,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-08-20T08:16:29.442Z"
+  }
+ ]
+}
