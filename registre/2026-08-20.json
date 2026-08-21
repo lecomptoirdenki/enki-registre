@@ -10,7 +10,10 @@
    "camp": "Cobolli F.",
    "cote": 2.52,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-2",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-08-20T08:16:29.442Z"
   },
@@ -22,7 +25,10 @@
    "camp": "1",
    "cote": 2.42,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-20T08:16:29.442Z"
   },
@@ -34,7 +40,10 @@
    "camp": "1",
    "cote": 2.56,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "0-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-20T08:16:29.442Z"
   }
