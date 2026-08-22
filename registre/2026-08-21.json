@@ -43,7 +43,10 @@
    "camp": "2",
    "cote": 1.9,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-2",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-08-21T08:39:54.094Z"
   },
