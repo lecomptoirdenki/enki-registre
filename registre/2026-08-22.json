@@ -75,7 +75,10 @@
    "camp": "N",
    "cote": 3.72,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "0-0",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-08-22T06:25:01.468Z"
   },
@@ -104,7 +107,10 @@
    "camp": "N",
    "cote": 3.75,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "2-0",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-22T06:25:01.468Z"
   },
@@ -149,7 +155,11 @@
    "camp": "1",
    "cote": 1.65,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": null,
+    "rembourse": true,
+    "corrige": "match reporté — mise rendue, ni gagnée ni perdue"
+   },
    "avant": true,
    "deposeLe": "2026-08-22T06:25:01.468Z"
   },
@@ -386,7 +396,11 @@
    "camp": "1",
    "cote": 1.18,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "4-0",
+    "gagne": true,
+    "corrige": "adversaire faux au programme : l'import du 22/08 avait croisé deux affiches grecques (AEK–Iraklis et Kalamata–Aris). AEK Athens, l'équipe pariée, recevait Iraklis et a gagné 4-0"
+   },
    "avant": true,
    "deposeLe": "2026-08-22T06:25:01.468Z"
   },
