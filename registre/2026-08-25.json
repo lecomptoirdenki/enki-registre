@@ -1,0 +1,19 @@
+{
+ "jour": "2026-08-25",
+ "publieLe": "2026-08-25T06:25:10.144Z",
+ "selections": [
+  {
+   "id": "2026-08-25|Valencia|Real Betis|dom",
+   "heure": "21:00",
+   "ligue": "Espagne · Liga",
+   "match": "Valencia – Real Betis",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.96,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-08-25T06:25:10.144Z"
+  }
+ ]
+}
