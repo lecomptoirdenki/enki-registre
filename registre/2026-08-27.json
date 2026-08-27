@@ -1,0 +1,32 @@
+{
+ "jour": "2026-08-27",
+ "publieLe": "2026-08-27T07:04:48.716Z",
+ "selections": [
+  {
+   "id": "2026-08-27|Celta Vigo|CA Osasuna|dom",
+   "heure": "20:30",
+   "ligue": "Espagne · Liga",
+   "match": "Celta Vigo – CA Osasuna",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.03,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-08-27T07:04:48.716Z"
+  },
+  {
+   "id": "2026-08-27|Barcelona|Athletic Bilbao|dom",
+   "heure": "21:00",
+   "ligue": "Espagne · Liga",
+   "match": "Barcelona – Athletic Bilbao",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.27,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-08-27T07:04:48.716Z"
+  }
+ ]
+}
