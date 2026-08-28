@@ -11,12 +11,11 @@
     "Un défaut du programme qui compose ce registre a fait publier, pendant cette période, des paris que le modèle n'avait pas retenus : la règle d'un championnat était appliquée à des matchs dont le prix se situait en dehors de la fourchette où cette règle a été mesurée. Le défaut était systématique et non occasionnel — sur certains championnats, tous les matchs du programme sortaient.",
     "47 des 142 sélections de la période sont concernées. Elles restent affichées, barrées, et ne comptent plus dans le cumul ni dans le taux de réussite : un registre horodaté ne se réécrit pas, il se corrige en ajoutant.",
     "Tel que publié, le cumul de la période était de -7,89 unités sur 126 sélections réglées. Une fois les sélections écartées retirées, il est de -2,39 unités sur 85 sélections réglées, dont une remboursée.",
-    "Cinq sélections n'ont pas pu être revérifiées, leur match ayant disparu de la source de cotes : elles ne sont pas écartées.",
+    "Le défaut a aussi eu un effet en sens inverse : le registre ne publie qu'un seul pari par match, et une sélection à tort a parfois pris la place de celle que le modèle retenait vraiment. Sept paris légitimes ont ainsi été évincés. Ils ne sont pas ajoutés ici : un registre horodaté ne peut pas déposer après coup un pari qu'il n'a pas annoncé avant le match. La période est donc incomplète autant qu'elle était excédentaire.",
     "Le compteur repart le 29 août 2026, sur une chaîne où l'écran et le registre partagent le même critère de sélection, et où un contrôle automatique compare les deux chaque matin avant le dépôt."
    ],
    "concernees": 47,
    "surTotal": 142,
-   "nonJugeables": 5,
    "brut": {
     "unites": -7.89,
     "reglees": 126
@@ -70,7 +69,8 @@
     "2026-08-28|AC Milan|Venezia|ext",
     "2026-08-28|Rio Ave FC|Sporting Lisbon|dom",
     "2026-08-28|Alavés|Villarreal|dom"
-   ]
+   ],
+   "evincees": 7
   }
  ]
 }
