@@ -1,0 +1,21 @@
+{
+ "v": 1,
+ "note": "Les corrections du registre s'AJOUTENT — aucune journée, aucune sélection n'est jamais réécrite. Ce fichier part dans le dépôt public au même titre que les journées.",
+ "entrees": [
+  {
+   "du": "2026-08-19",
+   "au": "2026-08-28",
+   "publieLe": "2026-08-28",
+   "titre": "Des paris publiés que le modèle n'avait pas retenus",
+   "texte": [
+    "Un défaut du programme qui compose ce registre a fait publier, pendant cette période, des paris que le modèle n'avait pas retenus : la règle d'un championnat était appliquée à des matchs dont le prix se situait en dehors de la fourchette où cette règle a été mesurée. 47 des 142 sélections de la période sont concernées.",
+    "Rien n'a été retiré ni modifié : les journées restent en ligne exactement telles qu'elles ont été déposées, et cette note s'ajoute sans rien réécrire — c'est la seule forme de correction qu'un registre horodaté autorise.",
+    "Les sélections concernées ne sont pas signalées une par une : les désigner reviendrait à publier les fourchettes de prix de nos règles, que ce registre ne divulgue pas.",
+    "Conséquence : le bilan de cette période ne représente pas le modèle. Le compteur repart le 29 août 2026, sur une chaîne où l'écran et le registre partagent le même critère de sélection, et où un contrôle automatique compare les deux chaque matin avant le dépôt."
+   ],
+   "concernees": 47,
+   "surTotal": 142,
+   "repartLe": "2026-08-29"
+  }
+ ]
+}
