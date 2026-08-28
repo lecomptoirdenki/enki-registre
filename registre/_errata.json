@@ -1,6 +1,6 @@
 {
- "v": 1,
- "note": "Les corrections du registre s'AJOUTENT — aucune journée, aucune sélection n'est jamais réécrite. Ce fichier part dans le dépôt public au même titre que les journées.",
+ "v": 2,
+ "note": "Les corrections du registre s'AJOUTENT — aucune journée, aucune sélection n'est jamais réécrite. Une sélection écartée reste affichée, barrée, et sort du calcul. Ce fichier part dans le dépôt public au même titre que les journées.",
  "entrees": [
   {
    "du": "2026-08-19",
@@ -8,14 +8,69 @@
    "publieLe": "2026-08-28",
    "titre": "Des paris publiés que le modèle n'avait pas retenus",
    "texte": [
-    "Un défaut du programme qui compose ce registre a fait publier, pendant cette période, des paris que le modèle n'avait pas retenus : la règle d'un championnat était appliquée à des matchs dont le prix se situait en dehors de la fourchette où cette règle a été mesurée. 47 des 142 sélections de la période sont concernées.",
-    "Rien n'a été retiré ni modifié : les journées restent en ligne exactement telles qu'elles ont été déposées, et cette note s'ajoute sans rien réécrire — c'est la seule forme de correction qu'un registre horodaté autorise.",
-    "Les sélections concernées ne sont pas signalées une par une : les désigner reviendrait à publier les fourchettes de prix de nos règles, que ce registre ne divulgue pas.",
-    "Conséquence : le bilan de cette période ne représente pas le modèle. Le compteur repart le 29 août 2026, sur une chaîne où l'écran et le registre partagent le même critère de sélection, et où un contrôle automatique compare les deux chaque matin avant le dépôt."
+    "Un défaut du programme qui compose ce registre a fait publier, pendant cette période, des paris que le modèle n'avait pas retenus : la règle d'un championnat était appliquée à des matchs dont le prix se situait en dehors de la fourchette où cette règle a été mesurée. Le défaut était systématique et non occasionnel — sur certains championnats, tous les matchs du programme sortaient.",
+    "47 des 142 sélections de la période sont concernées. Elles restent affichées, barrées, et ne comptent plus dans le cumul ni dans le taux de réussite : un registre horodaté ne se réécrit pas, il se corrige en ajoutant.",
+    "Tel que publié, le cumul de la période était de -7,89 unités sur 126 sélections réglées. Une fois les sélections écartées retirées, il est de -2,39 unités sur 85 sélections réglées, dont une remboursée.",
+    "Cinq sélections n'ont pas pu être revérifiées, leur match ayant disparu de la source de cotes : elles ne sont pas écartées.",
+    "Le compteur repart le 29 août 2026, sur une chaîne où l'écran et le registre partagent le même critère de sélection, et où un contrôle automatique compare les deux chaque matin avant le dépôt."
    ],
    "concernees": 47,
    "surTotal": 142,
-   "repartLe": "2026-08-29"
+   "nonJugeables": 5,
+   "brut": {
+    "unites": -7.89,
+    "reglees": 126
+   },
+   "repartLe": "2026-08-29",
+   "ecartees": [
+    "2026-08-20|Sheffield Wednesday|Bradford City|dom",
+    "2026-08-21|Real Betis|Real Sociedad|dom",
+    "2026-08-22|Atlético Huracán|Deportivo Riestra|dom",
+    "2026-08-22|Newells Old Boys|Banfield|dom",
+    "2026-08-22|CS Maritimo|Académico de Viseu|dom",
+    "2026-08-22|Fortuna Sittard|AZ Alkmaar|ext",
+    "2026-08-22|Athletic Bilbao|Sevilla|dom",
+    "2026-08-22|Inter Milan|Monza|ext",
+    "2026-08-22|Estoril|Rio Ave FC|dom",
+    "2026-08-22|Valencia|Celta Vigo|dom",
+    "2026-08-22|Fenerbahce|Torku Konyaspor|ext",
+    "2026-08-22|Parma|Cagliari|ext",
+    "2026-08-22|Toulouse|Lyon|ext",
+    "2026-08-22|Atlético Tucuman|Instituto de Córdoba|dom",
+    "2026-08-22|Heerenveen|FC Zwolle|nul",
+    "2026-08-22|Espanyol|Real Madrid|dom",
+    "2026-08-22|Independiente|Independiente Rivadavia|dom",
+    "2026-08-23|River Plate|Velez Sarsfield BA|dom",
+    "2026-08-23|Racing Club|Boca Juniors|dom",
+    "2026-08-23|Vitória SC|Nacional|dom",
+    "2026-08-23|Atlético Madrid|Villarreal|dom",
+    "2026-08-23|Venezia|Lecce|ext",
+    "2026-08-23|CD Castellón|Sabadell FC|dom",
+    "2026-08-23|Hellas Verona|Ascoli|nul",
+    "2026-08-23|Pisa|Padova|nul",
+    "2026-08-23|Santa Clara|Famalicão|dom",
+    "2026-08-23|Getafe|Real Racing Club de Santander|dom",
+    "2026-08-23|Barracas Central|Platense|dom",
+    "2026-08-23|Goztepe|Genclerbirligi SK|ext",
+    "2026-08-23|Atalanta BC|Sassuolo|ext",
+    "2026-08-23|Palermo|Juve Stabia|nul",
+    "2026-08-23|Elche CF|Barcelona|dom",
+    "2026-08-23|Belgrano de Cordoba|Defensa y Justicia|dom",
+    "2026-08-24|CA Tigre BA|Central Córdoba|dom",
+    "2026-08-24|Lanus|Argentinos Juniors|dom",
+    "2026-08-24|Talleres|Rosario Central|dom",
+    "2026-08-24|Bologna|Lazio|ext",
+    "2026-08-24|CA Osasuna|Levante|dom",
+    "2026-08-24|AS Roma|Fiorentina|ext",
+    "2026-08-25|Valencia|Real Betis|dom",
+    "2026-08-27|Celta Vigo|CA Osasuna|dom",
+    "2026-08-28|Union Santa Fe|Sarmiento de Junin|dom",
+    "2026-08-28|Boca Juniors|Lanus|dom",
+    "2026-08-28|Real Racing Club de Santander|Elche CF|dom",
+    "2026-08-28|AC Milan|Venezia|ext",
+    "2026-08-28|Rio Ave FC|Sporting Lisbon|dom",
+    "2026-08-28|Alavés|Villarreal|dom"
+   ]
   }
  ]
 }
