@@ -1,0 +1,74 @@
+{
+ "jour": "2026-08-31",
+ "publieLe": "2026-08-31T06:24:41.316Z",
+ "selections": [
+  {
+   "id": "2026-08-31|Lecce|AS Roma|ext",
+   "heure": "18:30",
+   "ligue": "Italie · Serie A",
+   "match": "Lecce – AS Roma",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 1.53,
+   "coteFr": 1.41,
+   "inverse": false,
+   "resultat": {
+    "score": "0-4",
+    "gagne": true
+   },
+   "avant": true,
+   "deposeLe": "2026-08-31T06:24:41.316Z"
+  },
+  {
+   "id": "2026-08-31|Arnaldi M.|Duckworth J.|j2",
+   "heure": "19:00",
+   "ligue": "US Open (ATP)",
+   "match": "Arnaldi M. – Duckworth J.",
+   "marche": "Vainqueur",
+   "camp": "Duckworth J.",
+   "cote": 2.56,
+   "coteFr": 2.42,
+   "inverse": false,
+   "resultat": {
+    "score": "1-3",
+    "gagne": true
+   },
+   "avant": true,
+   "deposeLe": "2026-08-31T06:24:41.316Z"
+  },
+  {
+   "id": "2026-08-31|Shang J.|Trungelliti M.|j2",
+   "heure": "19:55",
+   "ligue": "US Open (ATP)",
+   "match": "Shang J. – Trungelliti M.",
+   "marche": "Vainqueur",
+   "camp": "Trungelliti M.",
+   "cote": 2.88,
+   "coteFr": 2.75,
+   "inverse": false,
+   "resultat": {
+    "score": "2-3",
+    "gagne": true
+   },
+   "avant": true,
+   "deposeLe": "2026-08-31T06:24:41.316Z"
+  },
+  {
+   "id": "2026-08-31|Besiktas JK|Çorum FK|dom",
+   "heure": "20:30",
+   "ligue": "Turquie · Süper Lig",
+   "match": "Besiktas JK – Çorum FK",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.48,
+   "coteFr": 1.4,
+   "inverse": false,
+   "resultat": {
+    "score": "6-2",
+    "gagne": true
+   },
+   "avant": true,
+   "deposeLe": "2026-08-31T06:24:41.316Z"
+  }
+ ]
+}

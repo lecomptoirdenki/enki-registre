@@ -11,7 +11,10 @@
    "camp": "1",
    "cote": 1.33,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "4-0",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -24,7 +27,10 @@
    "camp": "2",
    "cote": 1.61,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-6",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -37,7 +43,10 @@
    "camp": "N",
    "cote": 4,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "1-1",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -50,7 +59,10 @@
    "camp": "N",
    "cote": 5.06,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "1-1",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -63,7 +75,10 @@
    "camp": "1",
    "cote": 1.18,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "2-2",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -76,7 +91,10 @@
    "camp": "2",
    "cote": 1.83,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "2-2",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -89,7 +107,10 @@
    "camp": "1",
    "cote": 2.24,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "2-5",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -102,7 +123,10 @@
    "camp": "1",
    "cote": 2.26,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "3-3",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -115,7 +139,10 @@
    "camp": "1",
    "cote": 3.5,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "2-1",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -128,7 +155,10 @@
    "camp": "N",
    "cote": 3.65,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "1-4",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -141,7 +171,10 @@
    "camp": "1",
    "cote": 1.62,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-0",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -154,7 +187,10 @@
    "camp": "N",
    "cote": 3.35,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "2-3",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -167,7 +203,10 @@
    "camp": "N",
    "cote": 3.3,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "0-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -180,7 +219,10 @@
    "camp": "N",
    "cote": 3.99,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "3-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -193,7 +235,10 @@
    "camp": "2",
    "cote": 2.18,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "0-0",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -206,7 +251,10 @@
    "camp": "1",
    "cote": 1.96,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "2-3",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -219,7 +267,10 @@
    "camp": "N",
    "cote": 4.1,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "3-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -232,7 +283,10 @@
    "camp": "1",
    "cote": 1.72,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "2-1",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -245,7 +299,10 @@
    "camp": "N",
    "cote": 3.16,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "1-2",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -258,7 +315,10 @@
    "camp": "1",
    "cote": 1.75,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "3-0",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -271,7 +331,10 @@
    "camp": "N",
    "cote": 3.3,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "2-3",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -284,7 +347,10 @@
    "camp": "1",
    "cote": 2.62,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "1-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -297,7 +363,10 @@
    "camp": "1",
    "cote": 1.47,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "3-0",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -310,7 +379,10 @@
    "camp": "N",
    "cote": 3.3,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "3-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -323,7 +395,10 @@
    "camp": "N",
    "cote": 5.6,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "4-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -336,7 +411,10 @@
    "camp": "1",
    "cote": 5.2,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "2-3",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -349,7 +427,10 @@
    "camp": "N",
    "cote": 5.9,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "1-4",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -362,7 +443,10 @@
    "camp": "1",
    "cote": 1.7,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -375,7 +459,10 @@
    "camp": "2",
    "cote": 1.64,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "0-2",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -388,7 +475,10 @@
    "camp": "2",
    "cote": 2.92,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "2-0",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -401,7 +491,10 @@
    "camp": "2",
    "cote": 1.46,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "0-1",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -414,7 +507,10 @@
    "camp": "1",
    "cote": 2.24,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-0",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -427,7 +523,10 @@
    "camp": "N",
    "cote": 3.25,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-1",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -440,7 +539,10 @@
    "camp": "N",
    "cote": 3.4,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "2-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -453,7 +555,10 @@
    "camp": "1",
    "cote": 2.52,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "0-2",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   },
@@ -466,7 +571,10 @@
    "camp": "2",
    "cote": 2.1,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-08-30T06:25:16.735Z"
   }
