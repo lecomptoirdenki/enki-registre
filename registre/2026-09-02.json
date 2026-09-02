@@ -1,0 +1,48 @@
+{
+ "jour": "2026-09-02",
+ "publieLe": "2026-09-02T06:25:04.016Z",
+ "selections": [
+  {
+   "id": "2026-09-02|Shelton B.|Hurkacz H.|j1",
+   "heure": "18:40",
+   "ligue": "US Open (ATP)",
+   "match": "Shelton B. – Hurkacz H.",
+   "marche": "Vainqueur",
+   "camp": "Shelton B.",
+   "cote": 1.44,
+   "coteFr": 1.43,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-02T06:25:04.016Z"
+  },
+  {
+   "id": "2026-09-02|Wigan Athletic|Milton Keynes Dons|dom",
+   "heure": "20:45",
+   "ligue": "Angleterre · League One",
+   "match": "Wigan Athletic – Milton Keynes Dons",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.52,
+   "coteFr": null,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-02T06:25:04.016Z"
+  },
+  {
+   "id": "2026-09-02|Harris L.|Tsitsipas S.|j2",
+   "heure": "22:30",
+   "ligue": "US Open (ATP)",
+   "match": "Harris L. – Tsitsipas S.",
+   "marche": "Vainqueur",
+   "camp": "Tsitsipas S.",
+   "cote": 1.45,
+   "coteFr": 1.4,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-02T06:25:04.016Z"
+  }
+ ]
+}
