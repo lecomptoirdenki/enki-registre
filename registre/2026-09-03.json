@@ -1,0 +1,34 @@
+{
+ "jour": "2026-09-03",
+ "publieLe": "2026-09-03T06:25:21.627Z",
+ "selections": [
+  {
+   "id": "2026-09-03|Gent|Leuven|dom",
+   "heure": "20:30",
+   "ligue": "Belgique · Pro League",
+   "match": "Gent – Leuven",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.71,
+   "coteFr": 1.56,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-03T06:25:21.627Z"
+  },
+  {
+   "id": "2026-09-03|Yunchaokete B.|Zheng M.|j1",
+   "heure": "22:00",
+   "ligue": "US Open (ATP)",
+   "match": "Yunchaokete B. – Zheng M.",
+   "marche": "Vainqueur",
+   "camp": "Yunchaokete B.",
+   "cote": 2.7,
+   "coteFr": 2.55,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-03T06:25:21.627Z"
+  }
+ ]
+}
