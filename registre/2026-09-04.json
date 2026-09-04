@@ -1,0 +1,76 @@
+{
+ "jour": "2026-09-04",
+ "publieLe": "2026-09-04T06:24:58.702Z",
+ "selections": [
+  {
+   "id": "2026-09-04|Basaksehir|Galatasaray|ext",
+   "heure": "19:00",
+   "ligue": "Turquie · Süper Lig",
+   "match": "Basaksehir – Galatasaray",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 1.68,
+   "coteFr": 1.64,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-04T06:24:58.702Z"
+  },
+  {
+   "id": "2026-09-04|USL Dunkerque|Clermont|dom",
+   "heure": "20:00",
+   "ligue": "France · Ligue 2",
+   "match": "USL Dunkerque – Clermont",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.89,
+   "coteFr": 1.75,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-04T06:24:58.702Z"
+  },
+  {
+   "id": "2026-09-04|Genoa|Como|ext",
+   "heure": "20:45",
+   "ligue": "Italie · Serie A",
+   "match": "Genoa – Como",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 1.87,
+   "coteFr": 1.79,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-04T06:24:58.702Z"
+  },
+  {
+   "id": "2026-09-04|FC Porto|Moreirense FC|dom",
+   "heure": "21:15",
+   "ligue": "Portugal · Liga",
+   "match": "FC Porto – Moreirense FC",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.2,
+   "coteFr": 1.14,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-04T06:24:58.702Z"
+  },
+  {
+   "id": "2026-09-04|Lehecka J.|Tsitsipas S.|j2",
+   "heure": "23:00",
+   "ligue": "US Open (ATP)",
+   "match": "Lehecka J. – Tsitsipas S.",
+   "marche": "Vainqueur",
+   "camp": "Tsitsipas S.",
+   "cote": 2.66,
+   "coteFr": 2.5,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-04T06:24:58.702Z"
+  }
+ ]
+}
