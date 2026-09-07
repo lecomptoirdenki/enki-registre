@@ -63,7 +63,10 @@
    "cote": 2.48,
    "coteFr": 2.35,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "2-2",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-05T06:25:30.345Z"
   },

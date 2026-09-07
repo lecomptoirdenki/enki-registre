@@ -1,0 +1,76 @@
+{
+ "jour": "2026-09-07",
+ "publieLe": "2026-09-07T06:55:31.160Z",
+ "selections": [
+  {
+   "id": "2026-09-07|Cagliari|Lecce|dom",
+   "heure": "18:30",
+   "ligue": "Italie · Serie A",
+   "match": "Cagliari – Lecce",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.08,
+   "coteFr": 1.97,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-07T06:55:31.160Z"
+  },
+  {
+   "id": "2026-09-07|Çaykur Rizespor|Alanyaspor|nul",
+   "heure": "19:00",
+   "ligue": "Turquie · Süper Lig",
+   "match": "Çaykur Rizespor – Alanyaspor",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.6,
+   "coteFr": 3.37,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-07T06:55:31.160Z"
+  },
+  {
+   "id": "2026-09-07|Goztepe|Gazişehir Gaziantep|nul",
+   "heure": "19:00",
+   "ligue": "Turquie · Süper Lig",
+   "match": "Goztepe – Gazişehir Gaziantep",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.75,
+   "coteFr": 3.6,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-07T06:55:31.160Z"
+  },
+  {
+   "id": "2026-09-07|Udinese|Lazio|nul",
+   "heure": "20:45",
+   "ligue": "Italie · Serie A",
+   "match": "Udinese – Lazio",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.25,
+   "coteFr": 3.15,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-07T06:55:31.160Z"
+  },
+  {
+   "id": "2026-09-07|Bromley FC|Wimbledon|dom",
+   "heure": "21:00",
+   "ligue": "Angleterre · League One",
+   "match": "Bromley FC – Wimbledon",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.56,
+   "coteFr": null,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-07T06:55:31.160Z"
+  }
+ ]
+}
