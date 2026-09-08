@@ -1,0 +1,62 @@
+{
+ "jour": "2026-09-08",
+ "publieLe": "2026-09-08T06:24:29.964Z",
+ "selections": [
+  {
+   "id": "2026-09-08|FC Utrecht|Go Ahead Eagles|nul",
+   "heure": "14:00",
+   "ligue": "Pays-Bas · Eredivisie",
+   "match": "FC Utrecht – Go Ahead Eagles",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 4.2,
+   "coteFr": null,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-08T06:24:29.964Z"
+  },
+  {
+   "id": "2026-09-08|NEC Nijmegen|Excelsior|nul",
+   "heure": "18:45",
+   "ligue": "Pays-Bas · Eredivisie",
+   "match": "NEC Nijmegen – Excelsior",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 4.75,
+   "coteFr": 4.4,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-08T06:24:29.964Z"
+  },
+  {
+   "id": "2026-09-08|Blackburn Rovers|Sheffield United|dom",
+   "heure": "20:45",
+   "ligue": "Angleterre · Championship",
+   "match": "Blackburn Rovers – Sheffield United",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 3.15,
+   "coteFr": 3,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-08T06:24:29.964Z"
+  },
+  {
+   "id": "2026-09-08|Wrexham AFC|Burnley|dom",
+   "heure": "20:45",
+   "ligue": "Angleterre · Championship",
+   "match": "Wrexham AFC – Burnley",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.12,
+   "coteFr": 2.02,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-08T06:24:29.964Z"
+  }
+ ]
+}
