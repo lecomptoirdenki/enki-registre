@@ -12,7 +12,10 @@
    "cote": 3.25,
    "coteFr": 3,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "2-3",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-09-09T06:25:02.575Z"
   },
@@ -26,7 +29,10 @@
    "cote": 2.88,
    "coteFr": 2.72,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "1-2",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-09-09T06:25:02.575Z"
   },
@@ -40,7 +46,10 @@
    "cote": 2.72,
    "coteFr": 2.53,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "2-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-09T06:25:02.575Z"
   },
@@ -54,7 +63,10 @@
    "cote": 2.31,
    "coteFr": 2.17,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "2-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-09T06:25:02.575Z"
   },
@@ -68,7 +80,10 @@
    "cote": 2.98,
    "coteFr": 2.83,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "1-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-09T06:25:02.575Z"
   },
@@ -82,7 +97,10 @@
    "cote": 6.75,
    "coteFr": 6.3,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "1-0",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-09T06:25:02.575Z"
   },
@@ -96,7 +114,10 @@
    "cote": 2.5,
    "coteFr": 2.45,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "2-0",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-09T06:25:02.575Z"
   },
@@ -110,7 +131,10 @@
    "cote": 3.24,
    "coteFr": 2.95,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "0-0",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-09T06:25:02.575Z"
   },
@@ -124,7 +148,10 @@
    "cote": 1.2,
    "coteFr": 1.14,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "0-4",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-09-09T06:25:02.575Z"
   }

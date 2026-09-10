@@ -1,0 +1,20 @@
+{
+ "jour": "2026-09-10",
+ "publieLe": "2026-09-10T12:23:40.211Z",
+ "selections": [
+  {
+   "id": "2026-09-10|CF Estrela|Braga|ext",
+   "heure": "21:15",
+   "ligue": "Portugal · Liga",
+   "match": "CF Estrela – Braga",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 1.72,
+   "coteFr": 1.67,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-10T12:23:40.211Z"
+  }
+ ]
+}
