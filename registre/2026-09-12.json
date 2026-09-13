@@ -12,7 +12,10 @@
    "cote": 2.56,
    "coteFr": 2.3,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "2-2",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -26,7 +29,10 @@
    "cote": 2.54,
    "coteFr": null,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "2-3",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -40,7 +46,10 @@
    "cote": 2.28,
    "coteFr": 2.1,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -54,7 +63,10 @@
    "cote": 3.4,
    "coteFr": 3.25,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-0",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -68,7 +80,10 @@
    "cote": 3,
    "coteFr": 2.9,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-1",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -82,7 +97,10 @@
    "cote": 3.2,
    "coteFr": 3.1,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-1",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -96,7 +114,10 @@
    "cote": 4.25,
    "coteFr": 3.95,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "2-2",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -110,7 +131,10 @@
    "cote": 1.26,
    "coteFr": 1.22,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "3-0",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -124,7 +148,10 @@
    "cote": 1.75,
    "coteFr": 1.66,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "5-0",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -138,7 +165,10 @@
    "cote": 3.05,
    "coteFr": 2.82,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "3-1",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -152,7 +182,10 @@
    "cote": 3.05,
    "coteFr": 2.77,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "0-0",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -166,7 +199,10 @@
    "cote": 3.7,
    "coteFr": 3.4,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "0-2",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -180,7 +216,10 @@
    "cote": 3.45,
    "coteFr": null,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "1-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -194,7 +233,10 @@
    "cote": 2.06,
    "coteFr": null,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "1-0",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -208,7 +250,10 @@
    "cote": 2.26,
    "coteFr": 2.12,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-5",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -222,7 +267,10 @@
    "cote": 2.14,
    "coteFr": 2.04,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "3-1",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -236,7 +284,10 @@
    "cote": 1.7,
    "coteFr": null,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "4-0",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -250,7 +301,10 @@
    "cote": 2.88,
    "coteFr": 2.7,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "0-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -264,7 +318,10 @@
    "cote": 1.27,
    "coteFr": 1.21,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "2-0",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -278,7 +335,10 @@
    "cote": 3.4,
    "coteFr": 3.2,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "1-3",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -292,7 +352,10 @@
    "cote": 2.22,
    "coteFr": 2.08,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -306,7 +369,10 @@
    "cote": 3.4,
    "coteFr": 3.15,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "1-0",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -320,7 +386,10 @@
    "cote": 2.4,
    "coteFr": 2.23,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "2-2",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -334,7 +403,10 @@
    "cote": 1.23,
    "coteFr": 1.17,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "0-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -348,7 +420,10 @@
    "cote": 1.46,
    "coteFr": 1.4,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -362,7 +437,10 @@
    "cote": 2.25,
    "coteFr": 2.18,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "2-2",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -376,7 +454,10 @@
    "cote": 1.26,
    "coteFr": 1.22,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-4",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -390,7 +471,10 @@
    "cote": 3.4,
    "coteFr": 3.1,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "2-2",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -404,7 +488,10 @@
    "cote": 1.49,
    "coteFr": 1.38,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-5",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -418,7 +505,10 @@
    "cote": 2.72,
    "coteFr": 2.3,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -432,7 +522,10 @@
    "cote": 2.96,
    "coteFr": 2.8,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "0-0",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -446,7 +539,10 @@
    "cote": 3.65,
    "coteFr": 3.45,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "1-1",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -460,7 +556,10 @@
    "cote": 2.72,
    "coteFr": 2.55,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "0-0",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -474,7 +573,10 @@
    "cote": 5.3,
    "coteFr": 4.7,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "3-0",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   },
@@ -488,7 +590,10 @@
    "cote": 3.45,
    "coteFr": 3.3,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "2-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-12T06:25:02.729Z"
   }
