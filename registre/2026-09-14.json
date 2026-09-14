@@ -1,0 +1,62 @@
+{
+ "jour": "2026-09-14",
+ "publieLe": "2026-09-14T06:24:46.230Z",
+ "selections": [
+  {
+   "id": "2026-09-14|Torino|AS Roma|ext",
+   "heure": "18:30",
+   "ligue": "Italie · Serie A",
+   "match": "Torino – AS Roma",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 1.6,
+   "coteFr": 1.53,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-14T06:24:46.230Z"
+  },
+  {
+   "id": "2026-09-14|Gazişehir Gaziantep|Fenerbahce|ext",
+   "heure": "19:00",
+   "ligue": "Turquie · Süper Lig",
+   "match": "Gazişehir Gaziantep – Fenerbahce",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 1.6,
+   "coteFr": 1.49,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-14T06:24:46.230Z"
+  },
+  {
+   "id": "2026-09-14|Rio Ave FC|CF Estrela|nul",
+   "heure": "19:45",
+   "ligue": "Portugal · Liga",
+   "match": "Rio Ave FC – CF Estrela",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.45,
+   "coteFr": 3.2,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-14T06:24:46.230Z"
+  },
+  {
+   "id": "2026-09-14|Celta Fortuna|SD Eibar|nul",
+   "heure": "20:30",
+   "ligue": "Espagne · Liga 2",
+   "match": "Celta Fortuna – SD Eibar",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.25,
+   "coteFr": 3.1,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-14T06:24:46.230Z"
+  }
+ ]
+}
