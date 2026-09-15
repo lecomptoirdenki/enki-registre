@@ -1,0 +1,34 @@
+{
+ "jour": "2026-09-15",
+ "publieLe": "2026-09-15T06:24:29.386Z",
+ "selections": [
+  {
+   "id": "2026-09-15|Ajax|Willem II|dom",
+   "heure": "20:00",
+   "ligue": "Pays-Bas · Eredivisie",
+   "match": "Ajax – Willem II",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.15,
+   "coteFr": 1.1,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-15T06:24:29.386Z"
+  },
+  {
+   "id": "2026-09-15|Hibernian|Kilmarnock|dom",
+   "heure": "20:45",
+   "ligue": "Écosse · Premiership",
+   "match": "Hibernian – Kilmarnock",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.51,
+   "coteFr": 1.51,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-15T06:24:29.386Z"
+  }
+ ]
+}
