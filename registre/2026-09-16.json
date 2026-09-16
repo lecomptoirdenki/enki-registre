@@ -1,0 +1,20 @@
+{
+ "jour": "2026-09-16",
+ "publieLe": "2026-09-16T06:24:56.380Z",
+ "selections": [
+  {
+   "id": "2026-09-16|Atlético Madrid|CA Osasuna|dom",
+   "heure": "19:00",
+   "ligue": "Espagne · Liga",
+   "match": "Atlético Madrid – CA Osasuna",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.42,
+   "coteFr": 1.35,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-16T06:24:56.380Z"
+  }
+ ]
+}
