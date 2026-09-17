@@ -1,0 +1,20 @@
+{
+ "jour": "2026-09-17",
+ "publieLe": "2026-09-17T06:24:47.185Z",
+ "selections": [
+  {
+   "id": "2026-09-17|Málaga|Villarreal|ext",
+   "heure": "21:30",
+   "ligue": "Espagne · Liga",
+   "match": "Málaga – Villarreal",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 2.05,
+   "coteFr": 1.94,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-17T06:24:47.185Z"
+  }
+ ]
+}
