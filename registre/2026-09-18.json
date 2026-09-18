@@ -1,0 +1,62 @@
+{
+ "jour": "2026-09-18",
+ "publieLe": "2026-09-18T06:25:11.931Z",
+ "selections": [
+  {
+   "id": "2026-09-18|Groningen|FC Zwolle|nul",
+   "heure": "20:00",
+   "ligue": "Pays-Bas · Eredivisie",
+   "match": "Groningen – FC Zwolle",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 4.7,
+   "coteFr": 4.5,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-18T06:25:11.931Z"
+  },
+  {
+   "id": "2026-09-18|Juve Stabia|Cesena FC|nul",
+   "heure": "20:30",
+   "ligue": "Italie · Serie B",
+   "match": "Juve Stabia – Cesena FC",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.4,
+   "coteFr": 3.15,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-18T06:25:11.931Z"
+  },
+  {
+   "id": "2026-09-18|AS Monaco|RC Lens|ext",
+   "heure": "20:45",
+   "ligue": "France · Ligue 1",
+   "match": "AS Monaco – RC Lens",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 3.65,
+   "coteFr": 3.35,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-18T06:25:11.931Z"
+  },
+  {
+   "id": "2026-09-18|Monza|Sassuolo|ext",
+   "heure": "20:45",
+   "ligue": "Italie · Serie A",
+   "match": "Monza – Sassuolo",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 2.64,
+   "coteFr": 2.45,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-18T06:25:11.931Z"
+  }
+ ]
+}
