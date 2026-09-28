@@ -1,0 +1,20 @@
+{
+ "jour": "2026-09-28",
+ "publieLe": "2026-09-28T06:36:11.082Z",
+ "selections": [
+  {
+   "id": "2026-09-28|Leganés|CD Castellón|dom",
+   "heure": "20:30",
+   "ligue": "Espagne · Liga 2",
+   "match": "Leganés – CD Castellón",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 3.04,
+   "coteFr": 2.8,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-09-28T06:36:11.082Z"
+  }
+ ]
+}
