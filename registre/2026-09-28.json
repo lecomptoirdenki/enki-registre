@@ -12,7 +12,10 @@
    "cote": 3.04,
    "coteFr": 2.8,
    "inverse": true,
-   "resultat": null,
+   "resultat": {
+    "score": "0-2",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-09-28T06:36:11.082Z"
   }
