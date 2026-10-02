@@ -1,0 +1,34 @@
+{
+ "jour": "2026-10-02",
+ "publieLe": "2026-10-02T06:22:54.198Z",
+ "selections": [
+  {
+   "id": "2026-10-02|Fils A.|Tiafoe F.|j1",
+   "heure": "10:10",
+   "ligue": "Japan Open (ATP)",
+   "match": "Fils A. – Tiafoe F.",
+   "marche": "Vainqueur",
+   "camp": "Fils A.",
+   "cote": 1.43,
+   "coteFr": 1.36,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-10-02T06:22:54.198Z"
+  },
+  {
+   "id": "2026-10-02|CD Eldense|Oviedo|dom",
+   "heure": "20:30",
+   "ligue": "Espagne · Liga 2",
+   "match": "CD Eldense – Oviedo",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.82,
+   "coteFr": 2.5,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-10-02T06:22:54.198Z"
+  }
+ ]
+}
