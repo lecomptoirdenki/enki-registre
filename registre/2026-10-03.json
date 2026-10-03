@@ -1,0 +1,62 @@
+{
+ "jour": "2026-10-03",
+ "publieLe": "2026-10-03T06:23:21.572Z",
+ "selections": [
+  {
+   "id": "2026-10-03|Barnsley|Milton Keynes Dons|dom",
+   "heure": "16:00",
+   "ligue": "Angleterre · League One",
+   "match": "Barnsley – Milton Keynes Dons",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.45,
+   "coteFr": null,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-10-03T06:23:21.572Z"
+  },
+  {
+   "id": "2026-10-03|Burton Albion|Huddersfield Town|ext",
+   "heure": "16:00",
+   "ligue": "Angleterre · League One",
+   "match": "Burton Albion – Huddersfield Town",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 1.96,
+   "coteFr": null,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-10-03T06:23:21.572Z"
+  },
+  {
+   "id": "2026-10-03|Crewe Alexandra|Bristol Rovers|dom",
+   "heure": "16:00",
+   "ligue": "Angleterre · League Two",
+   "match": "Crewe Alexandra – Bristol Rovers",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 3.2,
+   "coteFr": null,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-10-03T06:23:21.572Z"
+  },
+  {
+   "id": "2026-10-03|Cádiz CF|Leganés|dom",
+   "heure": "18:30",
+   "ligue": "Espagne · Liga 2",
+   "match": "Cádiz CF – Leganés",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 3.1,
+   "coteFr": 2.8,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-10-03T06:23:21.572Z"
+  }
+ ]
+}
