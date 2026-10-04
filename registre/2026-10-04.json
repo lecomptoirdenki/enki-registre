@@ -1,0 +1,34 @@
+{
+ "jour": "2026-10-04",
+ "publieLe": "2026-10-04T06:22:35.965Z",
+ "selections": [
+  {
+   "id": "2026-10-04|Lehecka J.|Daniel Vallejo A.|j1",
+   "heure": "10:10",
+   "ligue": "Japan Open (ATP)",
+   "match": "Lehecka J. – Daniel Vallejo A.",
+   "marche": "Vainqueur",
+   "camp": "Lehecka J.",
+   "cote": 1.41,
+   "coteFr": 1.37,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-10-04T06:22:35.965Z"
+  },
+  {
+   "id": "2026-10-04|Medvedev D.|Cerundolo F.|j1",
+   "heure": "10:30",
+   "ligue": "China Open (ATP)",
+   "match": "Medvedev D. – Cerundolo F.",
+   "marche": "Vainqueur",
+   "camp": "Medvedev D.",
+   "cote": 1.42,
+   "coteFr": 1.37,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-10-04T06:22:35.965Z"
+  }
+ ]
+}
