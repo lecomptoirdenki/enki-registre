@@ -1,0 +1,20 @@
+{
+ "jour": "2026-10-06",
+ "publieLe": "2026-10-06T06:22:48.372Z",
+ "selections": [
+  {
+   "id": "2026-10-06|Chicago Fire|Vancouver Whitecaps FC|ext",
+   "heure": "02:30",
+   "ligue": "États-Unis · MLS",
+   "match": "Chicago Fire – Vancouver Whitecaps FC",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 2.35,
+   "coteFr": 2.18,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-10-06T06:22:48.372Z"
+  }
+ ]
+}
