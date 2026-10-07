@@ -1,0 +1,20 @@
+{
+ "jour": "2026-10-07",
+ "publieLe": "2026-10-07T06:22:54.010Z",
+ "selections": [
+  {
+   "id": "2026-10-07|Internacional|Corinthians|dom",
+   "heure": "00:30",
+   "ligue": "Brésil · Serie A",
+   "match": "Internacional – Corinthians",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.3,
+   "coteFr": 2.12,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-10-07T06:22:54.010Z"
+  }
+ ]
+}
