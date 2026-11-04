@@ -1,0 +1,34 @@
+{
+ "jour": "2026-11-04",
+ "publieLe": "2026-11-04T07:23:00.802Z",
+ "selections": [
+  {
+   "id": "2026-11-04|KV Kortrijk|KV Mechelen|nul",
+   "heure": "20:30",
+   "ligue": "Belgique · Pro League",
+   "match": "KV Kortrijk – KV Mechelen",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.55,
+   "coteFr": 3.25,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-11-04T07:23:00.802Z"
+  },
+  {
+   "id": "2026-11-04|Cardiff City|West Ham United|dom",
+   "heure": "20:45",
+   "ligue": "Angleterre · Championship",
+   "match": "Cardiff City – West Ham United",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 3.45,
+   "coteFr": 3.05,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-11-04T07:23:00.802Z"
+  }
+ ]
+}
