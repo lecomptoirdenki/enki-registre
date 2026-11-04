@@ -1,0 +1,78 @@
+{
+ "jour": "2026-10-29",
+ "publieLe": "2026-11-04T07:43:08.934Z",
+ "selections": [
+  {
+   "id": "2026-10-29|Michelsen A.|Fils A.|j2",
+   "heure": "14:00",
+   "ligue": "Swiss Indoors Basel (ATP)",
+   "match": "Michelsen A. – Fils A.",
+   "marche": "Vainqueur",
+   "camp": "Fils A.",
+   "cote": 1.47,
+   "coteFr": 1.43,
+   "inverse": false,
+   "resultat": {
+    "score": "1-2",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:43:08.934Z"
+  },
+  {
+   "id": "2026-10-29|Fritz T.|Shapovalov D.|j1",
+   "heure": "15:10",
+   "ligue": "Swiss Indoors Basel (ATP)",
+   "match": "Fritz T. – Shapovalov D.",
+   "marche": "Vainqueur",
+   "camp": "Fritz T.",
+   "cote": 1.45,
+   "coteFr": 1.37,
+   "inverse": false,
+   "resultat": {
+    "score": "2-0",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:43:08.934Z"
+  },
+  {
+   "id": "2026-10-29|Frosinone|Lecce|dom",
+   "heure": "18:30",
+   "ligue": "Italie · Serie A",
+   "match": "Frosinone – Lecce",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.78,
+   "coteFr": 1.62,
+   "inverse": false,
+   "resultat": {
+    "score": "5-1",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:43:08.934Z"
+  },
+  {
+   "id": "2026-10-29|Fiorentina|Atalanta BC|ext",
+   "heure": "20:45",
+   "ligue": "Italie · Serie A",
+   "match": "Fiorentina – Atalanta BC",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 3.35,
+   "coteFr": 3,
+   "inverse": false,
+   "resultat": {
+    "score": "2-2",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:43:08.934Z"
+  }
+ ]
+}

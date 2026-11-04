@@ -1,0 +1,150 @@
+{
+ "jour": "2026-10-12",
+ "publieLe": "2026-11-04T07:41:29.511Z",
+ "selections": [
+  {
+   "id": "2026-10-12|Lehecka J.|Jodar R.|j2",
+   "heure": "07:10",
+   "ligue": "Shanghai Masters (ATP)",
+   "match": "Lehecka J. – Jodar R.",
+   "marche": "Vainqueur",
+   "camp": "Jodar R.",
+   "cote": 2.5,
+   "coteFr": 2.25,
+   "inverse": false,
+   "resultat": {
+    "score": "1-2",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:41:29.511Z"
+  },
+  {
+   "id": "2026-10-12|Tsitsipas S.|Fritz T.|j1",
+   "heure": "07:10",
+   "ligue": "Shanghai Masters (ATP)",
+   "match": "Tsitsipas S. – Fritz T.",
+   "marche": "Vainqueur",
+   "camp": "Tsitsipas S.",
+   "cote": 2.5,
+   "coteFr": 2.38,
+   "inverse": false,
+   "resultat": {
+    "score": "2-1",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:41:29.511Z"
+  },
+  {
+   "id": "2026-10-12|Oviedo|SD Eibar|nul",
+   "heure": "18:30",
+   "ligue": "Espagne · Liga 2",
+   "match": "Oviedo – SD Eibar",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.25,
+   "coteFr": 3.05,
+   "inverse": true,
+   "resultat": {
+    "score": "3-1",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:41:29.511Z"
+  },
+  {
+   "id": "2026-10-12|Eyüpspor|Goztepe|ext",
+   "heure": "19:00",
+   "ligue": "Turquie · Süper Lig",
+   "match": "Eyüpspor – Goztepe",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 1.95,
+   "coteFr": 1.81,
+   "inverse": false,
+   "resultat": {
+    "score": "0-4",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:41:29.511Z"
+  },
+  {
+   "id": "2026-10-12|Torino|Udinese|nul",
+   "heure": "20:45",
+   "ligue": "Italie · Serie A",
+   "match": "Torino – Udinese",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.35,
+   "coteFr": 3.1,
+   "inverse": true,
+   "resultat": {
+    "score": "2-1",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:41:29.511Z"
+  },
+  {
+   "id": "2026-10-12|Coventry City|Newcastle United|dom",
+   "heure": "21:00",
+   "ligue": "Angleterre · Premier League",
+   "match": "Coventry City – Newcastle United",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 3.6,
+   "coteFr": 3.2,
+   "inverse": true,
+   "resultat": {
+    "score": "4-1",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:41:29.511Z"
+  },
+  {
+   "id": "2026-10-12|Tenerife|Girona FC|dom",
+   "heure": "21:00",
+   "ligue": "Espagne · Liga 2",
+   "match": "Tenerife – Girona FC",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.94,
+   "coteFr": 2.7,
+   "inverse": true,
+   "resultat": {
+    "score": "1-1",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:41:29.511Z"
+  },
+  {
+   "id": "2026-10-12|Famalicão|Alverca|dom",
+   "heure": "21:15",
+   "ligue": "Portugal · Liga",
+   "match": "Famalicão – Alverca",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.94,
+   "coteFr": 1.76,
+   "inverse": false,
+   "resultat": {
+    "score": "1-4",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:41:29.511Z"
+  }
+ ]
+}

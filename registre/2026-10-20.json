@@ -1,0 +1,42 @@
+{
+ "jour": "2026-10-20",
+ "publieLe": "2026-11-04T07:42:17.561Z",
+ "selections": [
+  {
+   "id": "2026-10-20|Cambridge United|Wycombe Wanderers|dom",
+   "heure": "20:45",
+   "ligue": "Angleterre · League One",
+   "match": "Cambridge United – Wycombe Wanderers",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.42,
+   "coteFr": null,
+   "inverse": false,
+   "resultat": {
+    "score": "2-2",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:17.561Z"
+  },
+  {
+   "id": "2026-10-20|Doncaster Rovers|Stockport County FC|ext",
+   "heure": "20:45",
+   "ligue": "Angleterre · League One",
+   "match": "Doncaster Rovers – Stockport County FC",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 1.94,
+   "coteFr": null,
+   "inverse": false,
+   "resultat": {
+    "score": "0-2",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:17.561Z"
+  }
+ ]
+}

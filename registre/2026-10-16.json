@@ -1,0 +1,96 @@
+{
+ "jour": "2026-10-16",
+ "publieLe": "2026-11-04T07:41:48.379Z",
+ "selections": [
+  {
+   "id": "2026-10-16|Çorum FK|Çaykur Rizespor|dom",
+   "heure": "19:00",
+   "ligue": "Turquie · Süper Lig",
+   "match": "Çorum FK – Çaykur Rizespor",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.95,
+   "coteFr": 1.85,
+   "inverse": false,
+   "resultat": {
+    "score": "2-1",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:41:48.379Z"
+  },
+  {
+   "id": "2026-10-16|Stade de Reims|Dijon|dom",
+   "heure": "20:00",
+   "ligue": "France · Ligue 2",
+   "match": "Stade de Reims – Dijon",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.83,
+   "coteFr": 1.7,
+   "inverse": false,
+   "resultat": {
+    "score": "4-2",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:41:48.379Z"
+  },
+  {
+   "id": "2026-10-16|Leganés|Córdoba|dom",
+   "heure": "20:30",
+   "ligue": "Espagne · Liga 2",
+   "match": "Leganés – Córdoba",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.44,
+   "coteFr": 2.22,
+   "inverse": true,
+   "resultat": {
+    "score": "0-1",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:41:48.379Z"
+  },
+  {
+   "id": "2026-10-16|Le Mans FC|Toulouse|ext",
+   "heure": "20:45",
+   "ligue": "France · Ligue 1",
+   "match": "Le Mans FC – Toulouse",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 2.4,
+   "coteFr": 2.3,
+   "inverse": false,
+   "resultat": {
+    "score": "0-3",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:41:48.379Z"
+  },
+  {
+   "id": "2026-10-16|Burnley|Wolverhampton Wanderers|dom",
+   "heure": "21:00",
+   "ligue": "Angleterre · Championship",
+   "match": "Burnley – Wolverhampton Wanderers",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 3.15,
+   "coteFr": 2.9,
+   "inverse": true,
+   "resultat": {
+    "score": "1-2",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:41:48.379Z"
+  }
+ ]
+}

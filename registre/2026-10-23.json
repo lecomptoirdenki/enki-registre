@@ -1,0 +1,42 @@
+{
+ "jour": "2026-10-23",
+ "publieLe": "2026-11-04T07:42:26.149Z",
+ "selections": [
+  {
+   "id": "2026-10-23|Pau FC|Grenoble|dom",
+   "heure": "20:00",
+   "ligue": "France · Ligue 2",
+   "match": "Pau FC – Grenoble",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.89,
+   "coteFr": 1.74,
+   "inverse": false,
+   "resultat": {
+    "score": "2-1",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:26.149Z"
+  },
+  {
+   "id": "2026-10-23|Empoli|Vicenza|nul",
+   "heure": "20:30",
+   "ligue": "Italie · Serie B",
+   "match": "Empoli – Vicenza",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.5,
+   "coteFr": 3.2,
+   "inverse": false,
+   "resultat": {
+    "score": "0-2",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:26.149Z"
+  }
+ ]
+}

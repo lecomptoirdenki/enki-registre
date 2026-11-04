@@ -1,0 +1,24 @@
+{
+ "jour": "2026-10-15",
+ "publieLe": "2026-11-04T07:41:43.071Z",
+ "selections": [
+  {
+   "id": "2026-10-15|Mansfield Town|Oxford United|dom",
+   "heure": "21:00",
+   "ligue": "Angleterre · League One",
+   "match": "Mansfield Town – Oxford United",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.42,
+   "coteFr": null,
+   "inverse": false,
+   "resultat": {
+    "score": "1-1",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:41:43.071Z"
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "jour": "2026-10-28",
+ "publieLe": "2026-11-04T07:43:02.392Z",
+ "selections": [
+  {
+   "id": "2026-10-28|Parma|Udinese|nul",
+   "heure": "18:30",
+   "ligue": "Italie · Serie A",
+   "match": "Parma – Udinese",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.3,
+   "coteFr": 3.1,
+   "inverse": true,
+   "resultat": {
+    "score": "0-0",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:43:02.392Z"
+  },
+  {
+   "id": "2026-10-28|Venezia|Inter Milan|ext",
+   "heure": "18:30",
+   "ligue": "Italie · Serie A",
+   "match": "Venezia – Inter Milan",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 1.38,
+   "coteFr": 1.31,
+   "inverse": false,
+   "resultat": {
+    "score": "0-2",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:43:02.392Z"
+  },
+  {
+   "id": "2026-10-28|Pisa|Palermo|nul",
+   "heure": "19:00",
+   "ligue": "Italie · Serie B",
+   "match": "Pisa – Palermo",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.4,
+   "coteFr": 3.25,
+   "inverse": false,
+   "resultat": {
+    "score": "3-3",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:43:02.392Z"
+  },
+  {
+   "id": "2026-10-28|Carrarese|Arezzo|nul",
+   "heure": "20:00",
+   "ligue": "Italie · Serie B",
+   "match": "Carrarese – Arezzo",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.4,
+   "coteFr": 3.15,
+   "inverse": false,
+   "resultat": {
+    "score": "2-1",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:43:02.392Z"
+  },
+  {
+   "id": "2026-10-28|Juve Stabia|Hellas Verona|nul",
+   "heure": "20:00",
+   "ligue": "Italie · Serie B",
+   "match": "Juve Stabia – Hellas Verona",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.5,
+   "coteFr": 3.2,
+   "inverse": false,
+   "resultat": {
+    "score": "0-1",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:43:02.392Z"
+  },
+  {
+   "id": "2026-10-28|Genoa|Juventus|ext",
+   "heure": "20:45",
+   "ligue": "Italie · Serie A",
+   "match": "Genoa – Juventus",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 1.75,
+   "coteFr": 1.62,
+   "inverse": false,
+   "resultat": {
+    "score": "2-0",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:43:02.392Z"
+  },
+  {
+   "id": "2026-10-28|Monza|Napoli|ext",
+   "heure": "20:45",
+   "ligue": "Italie · Serie A",
+   "match": "Monza – Napoli",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 1.83,
+   "coteFr": 1.7,
+   "inverse": false,
+   "resultat": {
+    "score": "1-4",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:43:02.392Z"
+  }
+ ]
+}

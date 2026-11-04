@@ -1,0 +1,438 @@
+{
+ "jour": "2026-10-24",
+ "publieLe": "2026-11-04T07:42:34.383Z",
+ "selections": [
+  {
+   "id": "2026-10-24|Eyüpspor|Kasimpasa SK|ext",
+   "heure": "12:30",
+   "ligue": "Turquie · Süper Lig",
+   "match": "Eyüpspor – Kasimpasa SK",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 1.65,
+   "coteFr": 1.49,
+   "inverse": false,
+   "resultat": {
+    "score": "0-1",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Charlton Athletic|Norwich City|dom",
+   "heure": "13:30",
+   "ligue": "Angleterre · Championship",
+   "match": "Charlton Athletic – Norwich City",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 3.45,
+   "coteFr": 2.95,
+   "inverse": true,
+   "resultat": {
+    "score": "1-3",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Avellino|Padova|nul",
+   "heure": "15:00",
+   "ligue": "Italie · Serie B",
+   "match": "Avellino – Padova",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.4,
+   "coteFr": 3.1,
+   "inverse": false,
+   "resultat": {
+    "score": "0-1",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Cagliari|Bologna|nul",
+   "heure": "15:00",
+   "ligue": "Italie · Serie A",
+   "match": "Cagliari – Bologna",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.25,
+   "coteFr": 2.97,
+   "inverse": true,
+   "resultat": {
+    "score": "0-2",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Gazişehir Gaziantep|Erzurum BB|dom",
+   "heure": "15:00",
+   "ligue": "Turquie · Süper Lig",
+   "match": "Gazişehir Gaziantep – Erzurum BB",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.3,
+   "coteFr": 2.07,
+   "inverse": false,
+   "resultat": {
+    "score": "1-3",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Südtirol|Sampdoria|nul",
+   "heure": "15:00",
+   "ligue": "Italie · Serie B",
+   "match": "Südtirol – Sampdoria",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.2,
+   "coteFr": 3,
+   "inverse": false,
+   "resultat": {
+    "score": "1-1",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Virtus Entella|Mantova|nul",
+   "heure": "15:00",
+   "ligue": "Italie · Serie B",
+   "match": "Virtus Entella – Mantova",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.4,
+   "coteFr": 3.1,
+   "inverse": false,
+   "resultat": {
+    "score": "0-1",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Cambridge United|Plymouth Argyle|dom",
+   "heure": "16:00",
+   "ligue": "Angleterre · League One",
+   "match": "Cambridge United – Plymouth Argyle",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.54,
+   "coteFr": null,
+   "inverse": false,
+   "resultat": {
+    "score": "2-3",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Lincoln City|Burnley|dom",
+   "heure": "16:00",
+   "ligue": "Angleterre · Championship",
+   "match": "Lincoln City – Burnley",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 3.05,
+   "coteFr": 2.8,
+   "inverse": true,
+   "resultat": {
+    "score": "4-1",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Preston North End|West Bromwich Albion|dom",
+   "heure": "16:00",
+   "ligue": "Angleterre · Championship",
+   "match": "Preston North End – West Bromwich Albion",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 4,
+   "coteFr": 3.4,
+   "inverse": true,
+   "resultat": {
+    "score": "1-1",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Wolverhampton Wanderers|Watford|dom",
+   "heure": "16:00",
+   "ligue": "Angleterre · Championship",
+   "match": "Wolverhampton Wanderers – Watford",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.41,
+   "coteFr": 1.32,
+   "inverse": false,
+   "resultat": {
+    "score": "1-0",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Leganés|Mallorca|dom",
+   "heure": "16:15",
+   "ligue": "Espagne · Liga 2",
+   "match": "Leganés – Mallorca",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 3.35,
+   "coteFr": 3.05,
+   "inverse": true,
+   "resultat": {
+    "score": "1-1",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Real Racing Club de Santander|Espanyol|dom",
+   "heure": "16:15",
+   "ligue": "Espagne · Liga",
+   "match": "Real Racing Club de Santander – Espanyol",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.5,
+   "coteFr": 2.28,
+   "inverse": false,
+   "resultat": {
+    "score": "2-1",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|FC Utrecht|FC Zwolle|nul",
+   "heure": "16:30",
+   "ligue": "Pays-Bas · Eredivisie",
+   "match": "FC Utrecht – FC Zwolle",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 4.7,
+   "coteFr": 4.1,
+   "inverse": true,
+   "resultat": {
+    "score": "1-1",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|US Catanzaro 1929|Ascoli|nul",
+   "heure": "17:15",
+   "ligue": "Italie · Serie B",
+   "match": "US Catanzaro 1929 – Ascoli",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.4,
+   "coteFr": 3.2,
+   "inverse": false,
+   "resultat": {
+    "score": "1-6",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Samsunspor|Amed SK|nul",
+   "heure": "18:00",
+   "ligue": "Turquie · Süper Lig",
+   "match": "Samsunspor – Amed SK",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.75,
+   "coteFr": 3.4,
+   "inverse": true,
+   "resultat": {
+    "score": "1-2",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Chelsea|Tottenham Hotspur|dom",
+   "heure": "18:30",
+   "ligue": "Angleterre · Premier League",
+   "match": "Chelsea – Tottenham Hotspur",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.76,
+   "coteFr": 1.64,
+   "inverse": false,
+   "resultat": {
+    "score": "0-2",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Valencia|Villarreal|ext",
+   "heure": "18:30",
+   "ligue": "Espagne · Liga",
+   "match": "Valencia – Villarreal",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 2.25,
+   "coteFr": 2.07,
+   "inverse": false,
+   "resultat": {
+    "score": "1-2",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Arezzo|Benevento|nul",
+   "heure": "19:30",
+   "ligue": "Italie · Serie B",
+   "match": "Arezzo – Benevento",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.4,
+   "coteFr": 3.1,
+   "inverse": false,
+   "resultat": {
+    "score": "0-3",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|RC Lens|Paris FC|ext",
+   "heure": "20:45",
+   "ligue": "France · Ligue 1",
+   "match": "RC Lens – Paris FC",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 2.95,
+   "coteFr": 2.7,
+   "inverse": true,
+   "resultat": {
+    "score": "2-1",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Saint Etienne|Nantes|nul",
+   "heure": "20:45",
+   "ligue": "France · Ligue 2",
+   "match": "Saint Etienne – Nantes",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 4,
+   "coteFr": 3.8,
+   "inverse": true,
+   "resultat": {
+    "score": "1-0",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Westerlo|SK Beveren|dom",
+   "heure": "20:45",
+   "ligue": "Belgique · Pro League",
+   "match": "Westerlo – SK Beveren",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.18,
+   "coteFr": 2,
+   "inverse": false,
+   "resultat": {
+    "score": "4-4",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|ADO Den Haag|Heerenveen|ext",
+   "heure": "21:00",
+   "ligue": "Pays-Bas · Eredivisie",
+   "match": "ADO Den Haag – Heerenveen",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 2.06,
+   "coteFr": 1.94,
+   "inverse": false,
+   "resultat": {
+    "score": "2-3",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  },
+  {
+   "id": "2026-10-24|Atlético Madrid|Deportivo La Coruña|dom",
+   "heure": "21:00",
+   "ligue": "Espagne · Liga",
+   "match": "Atlético Madrid – Deportivo La Coruña",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.34,
+   "coteFr": 1.24,
+   "inverse": false,
+   "resultat": {
+    "score": "1-0",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:34.383Z"
+  }
+ ]
+}

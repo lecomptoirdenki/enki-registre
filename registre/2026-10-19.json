@@ -1,0 +1,96 @@
+{
+ "jour": "2026-10-19",
+ "publieLe": "2026-11-04T07:42:11.402Z",
+ "selections": [
+  {
+   "id": "2026-10-19|Monza|Cagliari|ext",
+   "heure": "18:30",
+   "ligue": "Italie · Serie A",
+   "match": "Monza – Cagliari",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 3.3,
+   "coteFr": 3.05,
+   "inverse": false,
+   "resultat": {
+    "score": "4-0",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:11.402Z"
+  },
+  {
+   "id": "2026-10-19|Trabzonspor|Besiktas JK|ext",
+   "heure": "19:00",
+   "ligue": "Turquie · Süper Lig",
+   "match": "Trabzonspor – Besiktas JK",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 2.29,
+   "coteFr": 2.08,
+   "inverse": false,
+   "resultat": {
+    "score": "2-0",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:11.402Z"
+  },
+  {
+   "id": "2026-10-19|Celta Fortuna|Tenerife|dom",
+   "heure": "20:30",
+   "ligue": "Espagne · Liga 2",
+   "match": "Celta Fortuna – Tenerife",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.75,
+   "coteFr": 2.5,
+   "inverse": false,
+   "resultat": {
+    "score": "1-1",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:11.402Z"
+  },
+  {
+   "id": "2026-10-19|Parma|Torino|ext",
+   "heure": "20:45",
+   "ligue": "Italie · Serie A",
+   "match": "Parma – Torino",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 2.48,
+   "coteFr": 2.33,
+   "inverse": false,
+   "resultat": {
+    "score": "0-3",
+    "gagne": true
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:11.402Z"
+  },
+  {
+   "id": "2026-10-19|Braga|Gil Vicente|dom",
+   "heure": "21:15",
+   "ligue": "Portugal · Liga",
+   "match": "Braga – Gil Vicente",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.62,
+   "coteFr": 1.5,
+   "inverse": false,
+   "resultat": {
+    "score": "1-2",
+    "gagne": false
+   },
+   "avant": false,
+   "reconstruit": true,
+   "deposeLe": "2026-11-04T07:42:11.402Z"
+  }
+ ]
+}
