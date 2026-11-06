@@ -1,0 +1,76 @@
+{
+ "jour": "2026-11-06",
+ "publieLe": "2026-11-06T07:22:50.296Z",
+ "selections": [
+  {
+   "id": "2026-11-06|Gazişehir Gaziantep|Kasimpasa SK|nul",
+   "heure": "18:00",
+   "ligue": "Turquie · Süper Lig",
+   "match": "Gazişehir Gaziantep – Kasimpasa SK",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.5,
+   "coteFr": 3.22,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-11-06T07:22:50.296Z"
+  },
+  {
+   "id": "2026-11-06|Ascoli|Palermo|nul",
+   "heure": "20:30",
+   "ligue": "Italie · Serie B",
+   "match": "Ascoli – Palermo",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.65,
+   "coteFr": 3.3,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-11-06T07:22:50.296Z"
+  },
+  {
+   "id": "2026-11-06|Toulouse|Strasbourg|ext",
+   "heure": "20:45",
+   "ligue": "France · Ligue 1",
+   "match": "Toulouse – Strasbourg",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 3.55,
+   "coteFr": 3.2,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-11-06T07:22:50.296Z"
+  },
+  {
+   "id": "2026-11-06|Everton|Coventry City|dom",
+   "heure": "21:00",
+   "ligue": "Angleterre · Premier League",
+   "match": "Everton – Coventry City",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.75,
+   "coteFr": 1.62,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-11-06T07:22:50.296Z"
+  },
+  {
+   "id": "2026-11-06|Famalicão|Arouca|nul",
+   "heure": "21:45",
+   "ligue": "Portugal · Liga",
+   "match": "Famalicão – Arouca",
+   "marche": "1N2",
+   "camp": "N",
+   "cote": 3.45,
+   "coteFr": 3.25,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-11-06T07:22:50.296Z"
+  }
+ ]
+}
