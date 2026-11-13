@@ -1,0 +1,20 @@
+{
+ "jour": "2026-11-13",
+ "publieLe": "2026-11-13T07:22:47.128Z",
+ "selections": [
+  {
+   "id": "2026-11-13|Leganés|Burgos CF|dom",
+   "heure": "20:30",
+   "ligue": "Espagne · Liga 2",
+   "match": "Leganés – Burgos CF",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 2.58,
+   "coteFr": 2.25,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-11-13T07:22:47.128Z"
+  }
+ ]
+}
