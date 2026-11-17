@@ -1,0 +1,20 @@
+{
+ "jour": "2026-11-17",
+ "publieLe": "2026-11-17T08:16:15.134Z",
+ "selections": [
+  {
+   "id": "2026-11-17|Zverev A.|Shelton B.|j2",
+   "heure": "20:30",
+   "ligue": "Finals (ATP)",
+   "match": "Zverev A. – Shelton B.",
+   "marche": "Vainqueur",
+   "camp": "Shelton B.",
+   "cote": 2.84,
+   "coteFr": 2.65,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-11-17T08:16:15.134Z"
+  }
+ ]
+}
