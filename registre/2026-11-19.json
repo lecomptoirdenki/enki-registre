@@ -1,0 +1,34 @@
+{
+ "jour": "2026-11-19",
+ "publieLe": "2026-11-19T07:23:17.907Z",
+ "selections": [
+  {
+   "id": "2026-11-19|Orlando City SC|FC Cincinnati|ext",
+   "heure": "01:30",
+   "ligue": "États-Unis · MLS",
+   "match": "Orlando City SC – FC Cincinnati",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 2.66,
+   "coteFr": 2.4,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-11-19T07:23:17.907Z"
+  },
+  {
+   "id": "2026-11-19|Zverev A.|Fils A.|j2",
+   "heure": "20:30",
+   "ligue": "Finals (ATP)",
+   "match": "Zverev A. – Fils A.",
+   "marche": "Vainqueur",
+   "camp": "Fils A.",
+   "cote": 3.4,
+   "coteFr": 3,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-11-19T07:23:17.907Z"
+  }
+ ]
+}
