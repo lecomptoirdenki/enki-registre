@@ -1,0 +1,76 @@
+{
+ "jour": "2026-11-20",
+ "publieLe": "2026-11-20T07:23:08.269Z",
+ "selections": [
+  {
+   "id": "2026-11-20|Nancy|Dijon|dom",
+   "heure": "20:00",
+   "ligue": "France · Ligue 2",
+   "match": "Nancy – Dijon",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.85,
+   "coteFr": 1.74,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-11-20T07:23:08.269Z"
+  },
+  {
+   "id": "2026-11-20|Andorra CF|Leganés|dom",
+   "heure": "20:30",
+   "ligue": "Espagne · Liga 2",
+   "match": "Andorra CF – Leganés",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.94,
+   "coteFr": 1.79,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-11-20T07:23:08.269Z"
+  },
+  {
+   "id": "2026-11-20|Medvedev D.|Tiafoe F.|j1",
+   "heure": "20:30",
+   "ligue": "Finals (ATP)",
+   "match": "Medvedev D. – Tiafoe F.",
+   "marche": "Vainqueur",
+   "camp": "Medvedev D.",
+   "cote": 1.4,
+   "coteFr": 1.35,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-11-20T07:23:08.269Z"
+  },
+  {
+   "id": "2026-11-20|Troyes|Le Havre|ext",
+   "heure": "20:45",
+   "ligue": "France · Ligue 1",
+   "match": "Troyes – Le Havre",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 3.55,
+   "coteFr": 3.3,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-11-20T07:23:08.269Z"
+  },
+  {
+   "id": "2026-11-20|Athletic Bilbao|Espanyol|dom",
+   "heure": "21:00",
+   "ligue": "Espagne · Liga",
+   "match": "Athletic Bilbao – Espanyol",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 1.53,
+   "coteFr": 1.43,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-11-20T07:23:08.269Z"
+  }
+ ]
+}
