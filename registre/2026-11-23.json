@@ -1,0 +1,34 @@
+{
+ "jour": "2026-11-23",
+ "publieLe": "2026-11-23T07:22:59.909Z",
+ "selections": [
+  {
+   "id": "2026-11-23|AD Ceuta FC|Almería|dom",
+   "heure": "20:30",
+   "ligue": "Espagne · Liga 2",
+   "match": "AD Ceuta FC – Almería",
+   "marche": "1N2",
+   "camp": "1",
+   "cote": 3.85,
+   "coteFr": 3.5,
+   "inverse": true,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-11-23T07:22:59.909Z"
+  },
+  {
+   "id": "2026-11-23|Monza|Fiorentina|ext",
+   "heure": "20:45",
+   "ligue": "Italie · Serie A",
+   "match": "Monza – Fiorentina",
+   "marche": "1N2",
+   "camp": "2",
+   "cote": 2.02,
+   "coteFr": 1.85,
+   "inverse": false,
+   "resultat": null,
+   "avant": true,
+   "deposeLe": "2026-11-23T07:22:59.909Z"
+  }
+ ]
+}
