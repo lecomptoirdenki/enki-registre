@@ -12,7 +12,10 @@
    "cote": 3.4,
    "coteFr": 3.1,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "0-1",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-11-25T07:23:55.098Z"
   },
@@ -26,7 +29,10 @@
    "cote": 3.2,
    "coteFr": 2.95,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-2",
+    "gagne": false
+   },
    "avant": true,
    "deposeLe": "2026-11-25T07:23:55.098Z"
   },
@@ -40,7 +46,10 @@
    "cote": 3.4,
    "coteFr": 3.1,
    "inverse": false,
-   "resultat": null,
+   "resultat": {
+    "score": "1-1",
+    "gagne": true
+   },
    "avant": true,
    "deposeLe": "2026-11-25T07:23:55.098Z"
   }
